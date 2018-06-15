@@ -1,0 +1,6 @@
+#!/usr/local/bin -f
+#export PYBUILD_NAME=try2pkg
+
+%:
+	dh $@  --with python3 --buildsystem=pybuild
+

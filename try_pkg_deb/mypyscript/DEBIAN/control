@@ -1,0 +1,10 @@
+Package: mypyscript
+Version: 0.01
+Architecture: all
+Maintainer: Nithin,gnknithin@gmail.com
+Installed-Size: 2
+Depends: python
+Section: extras
+Pririty: optional
+Hompage: www.google.com
+Description: It is Tale

@@ -1,0 +1,12 @@
+Source: flaskpkg
+Section: contrib/python
+Priority: extra
+Maintainer: nithin 
+Version: 0.1
+Build-Depends: dbhelper (>= 9), python5.5, dh-virtualenv (>> 0.6)
+Standards-Version: 3.9.5
+Package: flaskpkg
+Architecture: all
+Pre-Depends: dpkg (>= 1.16.1), python3.5
+Depends: make
+Description: flaskpkg service

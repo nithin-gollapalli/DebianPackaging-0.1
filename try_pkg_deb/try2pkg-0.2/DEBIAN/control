@@ -1,0 +1,13 @@
+Source: try2pkg
+Section: utils
+Priority: optional
+Maintainer: nithin <gnknithin@gmail.com>
+Version: 0.2
+Build-Depends: debhelper (>=9),python3
+Standards-Version: 3.9.6
+X-Python3-Version: >= 3.2
+#Vcs-Git: git://anonscm.debian.org/collab-maint/try2pkg.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/try2pkg.git
+Package: python3-try2pkg
+Architecture: all
+Description: This package installs the library for Python 3.
